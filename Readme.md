@@ -8,6 +8,8 @@ mysql> create database wdcem default character set utf8mb4;  #replace "wdcem" wi
 
 ## Step 2: Create your own project
 
+Don't have to clone this repo. Just do the following: 
+
 ```
 #Github supports "svn export". 
 
